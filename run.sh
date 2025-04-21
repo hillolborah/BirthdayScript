@@ -13,3 +13,5 @@ elif [ "$mood" == "NEGATIVE" ]; then
 else
     echo "Error: The model is not complex enough to comprehend user input."
 fi
+
+./animate.sh
